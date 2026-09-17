@@ -35,6 +35,10 @@ TAXONOMY.md                        # classification rules
 4. Preserve disagreement. No silent upgrade from claim to finding.
 5. Steward accepts changes. Contributors propose.
 
+## Reviews
+
+Adversarial reviews live under [`reviews/`](reviews/). Latest low-hanging fruit: [`reviews/2026-09-17-adversarial-low-hanging-fruit.md`](reviews/2026-09-17-adversarial-low-hanging-fruit.md).
+
 ## Disclosures
 
 Required reading: [`DISCLOSURES.md`](DISCLOSURES.md). Corrections welcome via issues.
