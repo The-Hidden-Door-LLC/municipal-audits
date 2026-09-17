@@ -37,7 +37,7 @@ TAXONOMY.md                        # classification rules
 
 ## Reviews
 
-Adversarial reviews live under [`reviews/`](reviews/). Latest low-hanging fruit: [`reviews/2026-09-17-adversarial-low-hanging-fruit.md`](reviews/2026-09-17-adversarial-low-hanging-fruit.md).
+Adversarial review **tree** under [`reviews/`](reviews/) — by severity, target, and date. Low-hanging fruit pass: [`reviews/adversarial/by-date/2026-09-17/`](reviews/adversarial/by-date/2026-09-17/). Kill shots: [`reviews/adversarial/by-severity/kill-shots/`](reviews/adversarial/by-severity/kill-shots/).
 
 ## Disclosures
 
