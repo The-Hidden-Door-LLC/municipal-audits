@@ -12,3 +12,9 @@ status: open
 Self-inflicted credibility cut.
 
 **Remediation:** Set `privacy_class: public` (or `public-methodology-sample`) and note what remains withheld, if anything.
+
+## Self-check
+1. Read `privacy_class` (or equivalent) on CASE.md / Aletheia header.
+2. Confirm the GitHub tree visibility.
+3. **Pass:** metadata says `public` (or accurate hybrid) matching reality.
+4. **Fail:** `public-rendition-pending` while the repo is already public.

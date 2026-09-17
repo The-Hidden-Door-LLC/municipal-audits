@@ -11,3 +11,4 @@ What “done enough to sell as a Hidden Door municipal audit sample” means —
 7. Secondary COG codes pruned or cited.
 
 Until then: methodology sample, not invoice hero piece.
+8. Cold self-check (CHECK-YOUR-OWN-WORK A–G) run by someone who did not author the case — pass recorded.

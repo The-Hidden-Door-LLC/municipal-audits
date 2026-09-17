@@ -9,3 +9,9 @@ All contributions are subject to [`DISCLOSURES.md`](DISCLOSURES.md). Do not subm
 5. Keep PII out of public renditions.
 
 Protocol: https://github.com/KarstenEvans/aletheia-protocol
+
+## Adversarial reviews
+Must include remediation and self-check. See `reviews/adversarial/SCAR-AND-STITCH.md` and `reviews/adversarial/CHECK-YOUR-OWN-WORK.md`.
+
+
+Adversarial leaves must include remediation options (**scar and stitch**). Leaves that only attack are incomplete: see `reviews/adversarial/SCAR-AND-STITCH.md`.

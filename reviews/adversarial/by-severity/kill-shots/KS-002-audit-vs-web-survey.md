@@ -16,3 +16,9 @@ One retrieval day. No SHA-256 captures of budget / ACFR / Title 5. Dollar figure
 **Remediation options:**
 1. Rename genre to “publication surface review” / “open-books review” until Phase B done.
 2. Finish captures + hashes + one rendition, then keep “audit.”
+
+## Self-check
+1. List evidence files with retrieval dates and hashes (or note “no capture”).
+2. Count payee names established from public pages (not portal).
+3. **Pass:** “audit” only if captures + hashes + rendition exist; otherwise genre says “surface review.”
+4. **Fail:** README/CASE say audit while evidence is one-day skim, verify-tagged dollars, no hashes.

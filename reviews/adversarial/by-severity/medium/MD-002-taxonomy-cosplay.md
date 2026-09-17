@@ -12,3 +12,9 @@ status: open
 Primary COG `01` is defensible. Secondaries (`87/20/12/14/56`) mostly unanchored to budget lines.
 
 **Remediation:** Prune secondaries until line-item citations exist.
+
+## Self-check
+1. List secondary COG codes on CASE.md.
+2. For each, cite a budget line or delete it.
+3. **Pass:** every secondary has a pin; primary alone is fine.
+4. **Fail:** decorative code stack.

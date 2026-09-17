@@ -16,3 +16,9 @@ Fine as disclosed method. Contestable under TPRA (inspection / upon-request can 
 **Remediation options:**
 1. Tighten README/DISCLOSURES: method label in every scorecard cell.
 2. Separate “openness score (THD method)” from “TPRA compliance” (explicitly out of scope unless counsel engaged).
+
+## Self-check
+1. Read README + DISCLOSURES for “petition ≠ publication.”
+2. Read scorecard/case question — does any cell treat NextRequest as “open”?
+3. **Pass:** method labeled; TPRA compliance explicitly out of scope unless counsel engaged.
+4. **Fail:** openness score equals “has a portal.”

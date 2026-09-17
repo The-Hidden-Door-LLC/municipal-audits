@@ -37,6 +37,8 @@ reviews/
 3. **One leaf, one attack.** Close or reject per leaf; don’t rewrite history.
 4. **Not Findings.** Promotion requires Steward Decision + typed evidence elsewhere.
 5. **Date folders are append-only.** New passes get new dates.
+6. **Scar and stitch.** Adversarial leaves without remediation are incomplete. See [`adversarial/SCAR-AND-STITCH.md`](adversarial/SCAR-AND-STITCH.md).
+7. **Check your own work.** Every stitch needs a cold self-check. See [`adversarial/CHECK-YOUR-OWN-WORK.md`](adversarial/CHECK-YOUR-OWN-WORK.md).
 
 ## Start here
 

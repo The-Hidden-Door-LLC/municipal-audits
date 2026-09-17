@@ -19,3 +19,9 @@ DISCLOSURES deny taint; they do not erase appearance. Paid-product framing only 
 1. Conflict-appearance disclosure node on case 001 (facts only).
 2. Written Decision: withheld, with reason.
 3. Do not lead the public catalog with Bartlett until (1) or a second unrelated city ships.
+
+## Self-check
+1. Open case 001 disclosures / CASE.md.
+2. Search Steward’s concurrent public records for the same city agencies (facts only).
+3. **Pass:** conflict-appearance disclosed, or Steward Decision “withheld + reason” linked from the case.
+4. **Fail:** product case live, parallel personal matter touching same city, silence on appearance.
