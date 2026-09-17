@@ -6,6 +6,9 @@ Aletheia-native. Classified by **Census FIPS** (where) and **Census of Governmen
 
 > Knowledge belongs to the project, not the Assistant.
 
+> **Disclosures (read first):** This repository is civic research, not legal advice and not an accusation of crime. Evidence is typed (Hypothesis ≠ Finding). Absence of a public ledger is an EvidenceGap, not proof of corruption. Full text: [`DISCLOSURES.md`](DISCLOSURES.md).
+
+
 ## Layout
 
 ```
@@ -31,6 +34,10 @@ TAXONOMY.md                        # classification rules
 3. Type every statement (Evidence, Claim, Hypothesis, Conflict, Gap…).
 4. Preserve disagreement. No silent upgrade from claim to finding.
 5. Steward accepts changes. Contributors propose.
+
+## Disclosures
+
+Required reading: [`DISCLOSURES.md`](DISCLOSURES.md). Corrections welcome via issues.
 
 ## License
 

@@ -25,6 +25,11 @@ Knowledge belongs to the project, not the Assistant.
 
 ---
 
+
+## 0.0 Public-mirror disclosure
+
+This evidence record is published under The Hidden Door LLC `municipal-audits` repository and is governed by [`DISCLOSURES.md`](../../../DISCLOSURES.md) and [`../DISCLOSURES.md`](../DISCLOSURES.md). It is not legal advice. Hypotheses are not findings. EvidenceGaps are not accusations of crime.
+
 ## 0. Adoption and conformance declaration
 
 ```yaml
